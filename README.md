@@ -8,8 +8,7 @@
   - [Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [Video Presentation](#video-presentation)  
-  - [Live Demo](#live-demo)  
+- [Link to React App](#link-to-react)
 - [Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -53,6 +52,9 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
+
+## Link to React App <a name="link-to-react"></a>
+<a href="https://github.com/BranBayou/hello-react-front-end" name="link-to-api">hello-react-front-end</a>
 
 ## Getting Started <a name="getting-started"></a>
 
